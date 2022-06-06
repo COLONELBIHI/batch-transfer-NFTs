@@ -1,0 +1,1 @@
+{'time': 'd:06 02:06:04', 'name': 'name1', 'address': {'0xaE56e690153eCEC543385dD6BCB622E69a3554D1'}, 'tokenId': {69}, 'success': True, 'hash': HexBytes('0x25ec128544565ddd937306b9feee266a9a6d5b2eb'), 'gasPrice': 4599999964, 'gasused': 110817, 'maxCost': '3.92 $', 'transfered': 1, 'type': 'transfer', 'error': None}
